@@ -1,0 +1,30 @@
+<div class="options">
+          <ul class="list-unstyled px-2">
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/ALUNO.png" alt="">Alunos</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+
+            <li class=""><a href="#" class="text-decoration-none"><img class="img-options" src="assets/img/MATRICULAS.png" alt="">Matrículas</a></li>
+            
+          </ul>
+        </div>
