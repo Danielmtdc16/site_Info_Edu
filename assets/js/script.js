@@ -1,12 +1,7 @@
 let logout = document.querySelector('.logout');
 let logoutSytle = window.getComputedStyle(logout);
 
-let idFooter = document.getElementById('footer');
-
 let alturaLogout = logoutSytle.height;
-
-idFooter.style.height = logoutSytle.height;
-idFooter.style.marginTop = '-'+alturaLogout;
 
 let menuBtn = document.querySelector('.open-btn');
 let sideBar = document.querySelector('.sidebar');
@@ -42,7 +37,6 @@ function atualizarAlturaContent(){
     console.log('atualizei : ', cont);
 }
 
-setInterval(atualizarAlturaContent, 1000);
 
 let optionsHeight = calc.toString();
 
@@ -62,9 +56,9 @@ menuBtn.addEventListener('click', () => {
         sideBar.classList.add('active');
 
     }
-    if (sideBar.classList.contains('active') && screenWidth <= 991) {
-        console.log('options height + px = ', optionsHeight+'px');
-        options.style.height = optionsHeight+'px';
-    }
+    //if (sideBar.classList.contains('active') && screenWidth <= 991) {
+        //console.log('options height + px = ', optionsHeight+'px');
+        //options.style.height = optionsHeight+'px';
+    //}
 });
 
